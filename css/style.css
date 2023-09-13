@@ -123,6 +123,10 @@ textarea{
     resize: none;
     border-radius: 5px;
 }
+.contact .btn{
+    width: 30%;
+    margin-right: 100px;
+}
     
 .testimony{
 margin: 10px;
